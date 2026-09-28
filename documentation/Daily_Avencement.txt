@@ -1,0 +1,1 @@
+- In the first day, I discovered the data with drawing the plots, and I was documented about corellation, IQR, Skewness and PCA
